@@ -94,8 +94,6 @@ AI, 웹, 게임, 도구처럼 분야를 먼저 정하기보다
 
 ### <p align="center"> 🧪 Other Things I've Built </p>
 
-### <p align="center"> 🧪 Other Things I've Built </p>
-
 <div align="center">
 <table>
 <tr>
