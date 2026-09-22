@@ -94,45 +94,32 @@ AI, 웹, 게임, 도구처럼 분야를 먼저 정하기보다
 
 ### <p align="center"> 🧪 Other Things I've Built </p>
 
+### <p align="center"> 🧪 Other Things I've Built </p>
+
 <div align="center">
-
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/DoTaeIn/Mnemosyne">
-        <b>📚 Mnemosyne</b>
-      </a>
-      <br><br>
-      Local-first<br>
-      lecture search
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://github.com/DoTaeIn/PokeHelp">
-        <b>⚔️ PokeHelp</b>
-      </a>
-      <br><br>
-      Uncertainty-aware<br>
-      Pokémon battle advisor
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://github.com/DoTaeIn/Unity-Dynamic-Saving-System">
-        <b>💾 Unity Saving System</b>
-      </a>
-      <br><br>
-      Flexible save system<br>
-      for Unity
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/DoTaeIn/Mnemosyne"><b>📚 Mnemosyne</b></a><br><br>
+Local-first<br>
+lecture search
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/DoTaeIn/PokeHelp"><b>⚔️ PokeHelp</b></a><br><br>
+Uncertainty-aware<br>
+Pokémon battle advisor
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/DoTaeIn/Unity-Dynamic-Saving-System"><b>💾 Unity Saving System</b></a><br><br>
+Flexible save system<br>
+for Unity
+</td>
+</tr>
 </table>
 
 <br>
 
-<a href="https://github.com/DoTaeIn?tab=repositories">
-  <b>See more repositories →</b>
-</a>
-
+<a href="https://github.com/DoTaeIn?tab=repositories"><b>See more repositories →</b></a>
 </div>
 
 <br>
