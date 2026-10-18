@@ -5,6 +5,7 @@
 ### Curiosity usually turns into a project.
 
 <sub><i>“Knowledge should be accessible to everyone.”</i></sub>
+<br></br>
 <a href="https://github.com/DoTaeIn">
   <img src="https://img.shields.io/badge/GitHub-DoTaeIn-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
